@@ -124,7 +124,7 @@ nav a:hover {
 /* Segment  */
 /* ************************* */
 .segment {
-
+	opacity:0.8;
 	border-width:var(--border-width);
 	border-color: var(--accent_color);
 	border-style:var(--border-style);
